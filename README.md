@@ -1,10 +1,10 @@
 # rEFInd theme Regular
 
-A simplistic clean and minimal theme for rEFInd
+A simplistic clean and minimal theme for rEFInd with added darkness by me
 
 
-![Screenshot 01](http://i.imgur.com/wQQ5OiQ.png)
-**press F10 to take screenshot
+![Screenshot 01](https://i.imgur.com/4vWk5nG.png)
+**Look at this screenshot
 
 
 ### Installation:
